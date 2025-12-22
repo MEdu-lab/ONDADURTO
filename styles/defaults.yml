@@ -8,9 +8,5 @@ metadata-file:
   - bibliography.yaml
 
 template: styles/template.latex
-
-syntax-highlighting: tango
-
 filters:
-  - pandoc-crossref
   - styles/multibib.lua

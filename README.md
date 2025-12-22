@@ -21,6 +21,9 @@ abstract: |
 - pratica d'insieme
 
 
+# Scheda Tecnica
+
+
 # Storico del progetto
 
 

@@ -8,7 +8,7 @@ OUTPUT_PDF = tesina.pdf
 
 # Trova il titolo dal metadata.yaml
 
-.PHONY: all build clean help
+.PHONY: all build clean help python
 
 all: build
 
@@ -21,18 +21,16 @@ help:
 build: $(OUTPUT_PDF)
 	@echo "PDF generato: $(OUTPUT_PDF)"
 
-$(OUTPUT_PDF): $(SOURCE_MD) $(PANDOC_CONFIG)
+$(OUTPUT_PDF): python $(PANDOC_CONFIG)
 	@echo "Generando PDF con Pandoc..."
-	@pandoc --defaults $(PANDOC_CONFIG) $(SOURCE_MD) -o $(OUTPUT_PDF)
-	@cp $(OUTPUT_PDF) $(OUTPUT_PDF)
-	@echo "Copia archiviata come: $(OUTPUT_PDF)"
+	pandoc --defaults $(PANDOC_CONFIG) $(SOURCE_MD) -o $(OUTPUT_PDF)
 
-$(SOURCE_MD): $(PYTHON_SCRIPT) $(FONT_SCRIPT)
-	@echo "Eseguendo script Python per generare README.md..."
-	@python3 $(PYTHON_SCRIPT)
+python: $(PYTHON_SCRIPT) $(FONT_SCRIPT)
+	echo "Eseguendo script Python per generare README.md..."
+	python3.11 $(PYTHON_SCRIPT)
 
 clean:
-	@rm -f README.md *.pdf
+	@rm -f README.md *.pdf bibliography.yaml
 	@echo "File generati rimossi"
 
 sync:
