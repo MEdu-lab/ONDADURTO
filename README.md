@@ -3,20 +3,17 @@ abstract: |
   Abstract
 ---
 
-# Contesto e ispirazione
+  # Background
 
 
 
-# Obiettivi della residenza
+# Scopo del Progetto Artistico
 
 
 # Metodologia di lavoro
 
 
-# Timeline e risultati attesi
-
-
-# Biografia e collaborazioni
+# Risultati attesi
 
 
 # Supporti (video, immagini, link)
