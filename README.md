@@ -7,7 +7,7 @@ abstract: |
 
 
 
-# Scopo del Progetto Artistico
+# Focus del Progetto Artistico
 
 
 # Metodologia di lavoro
