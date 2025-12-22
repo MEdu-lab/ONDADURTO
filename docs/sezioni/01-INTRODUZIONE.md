@@ -1,3 +1,2 @@
-# INTRODUZIONE!!!
+# Contesto e ispirazione
 
-questa è l'introduzione ?
