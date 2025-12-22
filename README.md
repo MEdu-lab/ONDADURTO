@@ -24,11 +24,6 @@ abstract: |
 # Storico del progetto
 
 
-# CONCLUSIONE
-
-Eppur si muove...
-
-
 # BIBLIOGRAFIA
 
 ::: {#refs-bib}
