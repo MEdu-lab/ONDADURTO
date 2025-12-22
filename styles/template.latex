@@ -371,13 +371,21 @@ $if(title)$
         $endif$
     }
     \vspace{.5cm}
-    
-    % Autore
-    {
-        \normalsize
-        Progetto di $author$ \par
-    }
-    \vspace{.5cm}
+
+    % Maestri - usa sia variabile Pandoc che comando LaTeX
+    $if(artisti)$
+    $for(artisti)$%
+    \begin{minipage}{\maestriwidth\textwidth}
+      \centering
+      \textbf{$artisti.nome$}%
+      $if(artisti.ruolo)$\\[0.2em]\textit{$artisti.ruolo$}$endif$%
+      $if(artisti.qualifica)$\\[0.2em]\textit{$artisti.qualifica$}$endif$
+    \end{minipage}%
+    $sep$\hfill%
+    $endfor$
+    \par
+    \vskip 1.5em%
+    $endif$
     
     % Dati citazione
     {
