@@ -1,1 +1,1 @@
-# Scopo del Progetto Artistico
+# Focus del Progetto Artistico
