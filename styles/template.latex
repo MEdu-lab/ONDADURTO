@@ -381,7 +381,7 @@ $if(title)$
     
     % Dati citazione
     {
-        \normalsize
+        \normalsize\itshape
         $citazione$
         \par
     }
