@@ -361,9 +361,9 @@ $if(title)$
     $endif$
     
     $if(graphics)$
-      \vspace{1cm}
+      \vspace{.5cm}
       \includegraphics[width=0.4\textwidth]{docs/images/immagini-000.png}
-      \vspace{1cm}
+      \vspace{.5cm}
     $endif$
 
     % Dati citazione
