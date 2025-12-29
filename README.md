@@ -33,11 +33,8 @@ Ciò che vogliamo generare in questo progetto coreografico sono spazi di ascolto
 - scale differenti rispetto al quotidiano da fuori->dentro fuori<-dentro
 
 
-# Metodologia di lavoro
+# Metodologia
 
-- metodologia danza
-- metodologia musica
-- pratica d'insieme
 
 
 # Scheda Tecnica
