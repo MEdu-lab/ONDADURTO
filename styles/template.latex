@@ -163,8 +163,7 @@ $if(csl-refs)$
 \setlength{\csllabelwidth}{3em}
 
 % Font bibliografia: Arial 10pt
-\newcommand{\bibfont}{\sffamily\fontsize{10pt}{12pt}\selectfont}
-
+\newcommand{\bibfont}{\fontsize{10pt}{12pt}\selectfont}
 \newenvironment{CSLReferences}[2]
 {\begingroup\bibfont
  \begin{list}{}{%
@@ -325,7 +324,7 @@ $endif$
 $if(title)$
 \begin{titlepage}
     \centering
-    \sffamily
+    
     
     % Intestazione
     {
