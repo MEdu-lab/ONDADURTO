@@ -59,8 +59,8 @@ $endif$
 % PACCHETTI BASE
 % ============================================================================
 \usepackage{amsmath,amssymb}
-\usepackage[hmargin=2cm, vmargin=2.5cm]{geometry}
-\fancyhfoffset[L,R]{0pt}
+\usepackage[hmargin=2cm, vmargin=2.5cm, includefoot]{geometry}
+
 
 % Miglioramenti tipografici
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
