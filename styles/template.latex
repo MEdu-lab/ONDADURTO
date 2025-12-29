@@ -326,16 +326,8 @@ $endif$
 $if(title)$
 \begin{titlepage}
     \centering
-    
-    
     % Intestazione
-    {
-        \normalsize
-        $principale$ \\
-        $conservatorio$ \par
-    }
     \vspace{1cm}
-    
     % Titolo
     {
         \large\bfseries
