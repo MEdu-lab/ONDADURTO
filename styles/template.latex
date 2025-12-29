@@ -59,7 +59,7 @@ $endif$
 % PACCHETTI BASE
 % ============================================================================
 \usepackage{amsmath,amssymb}
-\usepackage[hmargin=2cm, vmargin=2.5cm, includefoot]{geometry}
+\usepackage[hmargin=2cm, vmargin=2.5cm]{geometry}
 
 
 % Miglioramenti tipografici
