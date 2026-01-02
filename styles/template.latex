@@ -332,8 +332,6 @@ $endif$
 $if(title)$
 \begin{titlepage}
     \centering
-    % Intestazione
-    \vspace{1cm}
     % Titolo
     {
         \large\bfseries
