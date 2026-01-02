@@ -366,7 +366,8 @@ $if(title)$
     $if(citazione)$
     \begin{minipage}{0.8*\textwidth}
         {\small\itshape $citazione$} ($autoreCitazione$) \par
-    \end{minipage}        
+    \end{minipage} 
+    $endif$
     \vspace{.5cm}
     
     % Riassunto
