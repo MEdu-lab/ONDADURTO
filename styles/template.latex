@@ -374,7 +374,7 @@ $if(title)$
     $if(abstract)$
     \begin{minipage}{\textwidth}
         \centering\large\bfseries Abstract \par
-        \normalsize\mdseries
+        \normalsize\mdseries\centering
         $abstract$
     \end{minipage}
     $endif$
