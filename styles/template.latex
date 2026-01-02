@@ -332,7 +332,7 @@ $endif$
 $if(title)$
 \begin{titlepage}
     \centering
-    \vspace*{.3cm}
+    \vspace*{.1cm}
     % Titolo
     {
         \Huge\bfseries
@@ -378,7 +378,6 @@ $if(title)$
         $abstract$
     \end{minipage}
     $endif$
-    \vspace*{1cm}
 \end{titlepage}
 $endif$
 
