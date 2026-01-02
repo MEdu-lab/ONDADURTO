@@ -357,9 +357,9 @@ $if(title)$
     $endif$
     
     $if(graphics)$
-\setlength{\fboxsep}{5pt}
-\fcolorbox{black}{white}{\includegraphics[width=0.4\textwidth]{docs/images/immagini-000.png}}
-%\includegraphics[width=0.4\textwidth]{docs/images/immagini-000.png}
+    \setlength{\fboxsep}{0pt}
+    \setlength{\fboxrule}{2pt}  % Spessore del bordo
+    \textcolor{black}{\fbox{\includegraphics[width=0.4\textwidth]{docs/images/immagini-000.png}}}
     $endif$
 
     % Dati citazione
