@@ -5,7 +5,6 @@ pdf-engine: xelatex
 
 metadata-file:
   - metadata.yaml
-  - bibliography.yaml
 
 template: styles/template.latex
 filters:
