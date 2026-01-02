@@ -13,7 +13,9 @@ Bagliori porta in laboratorio un corpo che sperimenta come stati energetici spec
 in una forma mutevole, visitando raﬀigurazioni del corpo di diversa provenienza. La danza attraversa diverse qualità atmosferiche, determinate dagli stati di connessione a questi immaginari.
 Nell’incontro del corpo della danza con il suono, è emerso l’interesse a intraprendere un viaggio
 ugualmente percettivo nella direzione opposta: verso l’esplorazione dello spazio intorno al corpo e delle forze vibrazionali invisibili che vi agiscono.
+
 **Marco**: L’esplorazione è quella di un corpo “vuoto”, ma già infinitamente pieno di possibilità che risuona con l’ambiente esterno, lasciandosi muovere dalle vibrazioni amplificate dello spazio che abita. Bagliori sviluppa così le qualità relazionali del corpo che entra in risonanza con lo spazio architettonico, sonoro e tattile—proprio come fanno gli strumenti musicali. Questi aggregati sonori sono strumenti di nuova invenzione in fase di sperimentazione. Conducono lontano dal conosciuto, verso angoli remoti del suono, producendo una musica nascosta, che però risulta visibile quando la andiamo a cercare. Sono oggetti sonori che sfruttano il feedback come fenomeno costruttivo: innescano la vibrazione della membrana di un tamburo o della superficie metallica di un tam tam (un particolare tipo di gong). Questi strumenti testimoniano che ogni oggetto è sempre in vibrazione, anche senza intervento umano.
+
 **Giulio**: Le vibrazioni coinvolgono l’ambiente in modo non omogeneo, mappando le caratteristiche dello spazio in zone di pressione. L’emersione di feedback e risonanza dipende da numerose variabili in costante relazione: geometria della stanza, intonazione della membrana, livello di amplificazione, il corpo in movimento. La ricerca esplora come la danza può guidare alcune di queste variabili, modificando lo spazio e trasformando le percezioni sonore in retroazione con la musica. 
 
 Ciò che vogliamo generare in questo progetto coreografico sono spazi di ascolto e intensità visibili: realtà prodotte dai corpi messi sotto pressione, fisica e acustica.
@@ -82,19 +84,4 @@ fase di approfondimento del progetto.
 
 - **1° febbraio 2025:** Presentazione dello studio presso *Spazio Rossellini*, Roma, nell'ambito di *Sharing Blooms*, Sharing In Rome. Danza e coreografia: Marta Sponzilli. Suono: Marco Di Gasbarro.
 
-
-# BIBLIOGRAFIA
-
-::: {#refs-bib}
-:::
-
-# DISCOGRAFIA
-
-::: {#refs-dis}
-:::
-
-# SITOGRAFIA
-
-::: {#refs-sit}
-:::
 
