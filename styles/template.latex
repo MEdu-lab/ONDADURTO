@@ -363,17 +363,17 @@ $if(title)$
     $endif$
 
     % Dati citazione
-    {
+    $if(citazione)$
+    \begin{minipage}{0.8*\textwidth}
         {\small\itshape $citazione$} ($autoreCitazione$) \par
-        
-    }
+    \end{minipage}        
     \vspace{.5cm}
     
     % Riassunto
     $if(abstract)$
-    \begin{minipage}{0.9\textwidth}
+    \begin{minipage}{\textwidth}
         \centering\large\bfseries Abstract \par
-        \normalsize\raggedright\mdseries
+        \normalsize\mdseries
         $abstract$
     \end{minipage}
     $endif$
