@@ -25,4 +25,4 @@ artisti-width: '0.3'
 graphics: true
 geometry:
   - hmargin=2cm
-  - vmargin=2.5cm
+  - vmargin=2cm
