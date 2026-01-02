@@ -332,13 +332,13 @@ $endif$
 $if(title)$
 \begin{titlepage}
     \centering
-    \vspace{.5cm}
+    \vspace{1cm}
     % Titolo
     {
         \Huge\bfseries
         \MakeUppercase{$title$} \par
         $if(subtitle)$
-          {\normalsize\itshape $subtitle$ \par}
+          {\Large \itshape $subtitle$ \par}
         $endif$
     }
 
