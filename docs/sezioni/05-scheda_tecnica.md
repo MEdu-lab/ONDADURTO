@@ -1,5 +1,6 @@
 # Scheda Tecnica
 
+La durata del lavoro finale si prevede sarà di circa 45 minuti.
 Il lavoro prevede una componente sonora diffusa su almeno quattro altoparlanti attivi, da disporsi
 nello spazio secondo indicazioni che verranno concordate in fase di allestimento. È richiesta la
 disponibilità di un mixer analogico o digitale con almeno quattro uscite indipendenti per la gestione
