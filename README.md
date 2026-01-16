@@ -48,6 +48,7 @@ estremità del tubo le asseconda. Questo circuito è anche aperto alla stanza: i
 
 # Scheda Tecnica
 
+La durata del lavoro finale si prevede sarà di circa 45 minuti.
 Il lavoro prevede una componente sonora diffusa su almeno quattro altoparlanti attivi, da disporsi
 nello spazio secondo indicazioni che verranno concordate in fase di allestimento. È richiesta la
 disponibilità di un mixer analogico o digitale con almeno quattro uscite indipendenti per la gestione
@@ -61,8 +62,7 @@ e diffusori.
 
 Per la natura della prassi musicale, che si basa sul feedback acustico e sull’interazione con le
 caratteristiche del luogo, si richiede uno spazio con caratteristiche acustiche non eccessivamente
-smorzate, senza trattamenti fonoassorbenti invasivi. Lo spazio del Supercinema risponde a queste
-necessità.
+smorzate, senza trattamenti fonoassorbenti invasivi. 
 
 Per l’illuminazione si richiede la dotazione luci standard dello spazio, adeguata a una performance
 di danza. Non sono previste proiezioni video né ulteriori esigenze tecniche. Eventuali specifiche
@@ -80,8 +80,8 @@ fase di approfondimento del progetto.
 
 - **Settembre 2024:** Residenza presso il *Museo Anahuacalli*, Città del Messico (museo progettato da Diego Rivera), con laboratorio aperto al pubblico.
 
-- **5 ottobre 2024:** Prima apertura del lavoro: *Resplandores, Anatomías descentralizadas* presso l'Istituto Italiano di Cultura, Città del Messico. Danza e coreografia: Marta Sponzilli. Suono: Ana Mayra Tang.
+- **5 ottobre 2024:** Prima apertura del lavoro: *Resplandores, Anatomías descentralizadas* presso l'Istituto Italiano di Cultura, Città del Messico. Danza e coreografia: Marta Sponzilli. Suono: Ana Mayra Tang. Video: <https://www.youtube.com/watch?v=J6m6K_lqC30&t=469s>
 
-- **1° febbraio 2025:** Presentazione dello studio presso *Spazio Rossellini*, Roma, nell'ambito di *Sharing Blooms*, Sharing In Rome. Danza e coreografia: Marta Sponzilli. Suono: Marco Di Gasbarro.
+- **1° febbraio 2025:** Presentazione dello studio presso *Spazio Rossellini*, Roma, nell'ambito di *Sharing Blooms*, Sharing In Rome. Danza e coreografia: Marta Sponzilli. Suono: Marco Di Gasbarro. Video: <https://www.youtube.com/watch?v=bBxd5MaqEhg>
 
 
