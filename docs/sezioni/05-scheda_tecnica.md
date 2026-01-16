@@ -13,8 +13,7 @@ e diffusori.
 
 Per la natura della prassi musicale, che si basa sul feedback acustico e sull’interazione con le
 caratteristiche del luogo, si richiede uno spazio con caratteristiche acustiche non eccessivamente
-smorzate, senza trattamenti fonoassorbenti invasivi. Lo spazio del Supercinema risponde a queste
-necessità.
+smorzate, senza trattamenti fonoassorbenti invasivi. 
 
 Per l’illuminazione si richiede la dotazione luci standard dello spazio, adeguata a una performance
 di danza. Non sono previste proiezioni video né ulteriori esigenze tecniche. Eventuali specifiche
