@@ -8,6 +8,6 @@
 
 - **Settembre 2024:** Residenza presso il *Museo Anahuacalli*, Città del Messico (museo progettato da Diego Rivera), con laboratorio aperto al pubblico.
 
-- **5 ottobre 2024:** Prima apertura del lavoro: *Resplandores, Anatomías descentralizadas* presso l'Istituto Italiano di Cultura, Città del Messico. Danza e coreografia: Marta Sponzilli. Suono: Ana Mayra Tang.
+- **5 ottobre 2024:** Prima apertura del lavoro: *Resplandores, Anatomías descentralizadas* presso l'Istituto Italiano di Cultura, Città del Messico. Danza e coreografia: Marta Sponzilli. Suono: Ana Mayra Tang. Video: <https://www.youtube.com/watch?v=J6m6K_lqC30&t=469s>
 
-- **1° febbraio 2025:** Presentazione dello studio presso *Spazio Rossellini*, Roma, nell'ambito di *Sharing Blooms*, Sharing In Rome. Danza e coreografia: Marta Sponzilli. Suono: Marco Di Gasbarro.
+- **1° febbraio 2025:** Presentazione dello studio presso *Spazio Rossellini*, Roma, nell'ambito di *Sharing Blooms*, Sharing In Rome. Danza e coreografia: Marta Sponzilli. Suono: Marco Di Gasbarro. Video: <https://www.youtube.com/watch?v=bBxd5MaqEhg>
